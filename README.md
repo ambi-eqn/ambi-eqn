@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello 😃 🍎
+![Pictur of a fire bird](https://images.aiscribbles.com/dc421a0e287540d5954f129aabf73e77.png?v=804207)
 
+I am new to github trying to learn coding language
 <!--
 **ambi-eqn/ambi-eqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
